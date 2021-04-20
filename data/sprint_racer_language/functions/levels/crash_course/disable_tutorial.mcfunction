@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Mode Tutoriel: ","color":"white","bold":"true"},{"text":"NON","bold":"true","color":"red"}]

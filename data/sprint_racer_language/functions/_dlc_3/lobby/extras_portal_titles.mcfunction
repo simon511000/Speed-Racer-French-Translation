@@ -1,0 +1,3 @@
+#grand prix
+execute unless entity @e[name=w,type=armor_stand,tag=grandprix] run summon armor_stand 1577 93 363 {CustomName:"{\"text\":\"Grand Prix Setup\",\"color\":\"gold\",\"bold\":\"true\"}",CustomNameVisible:false,Marker:1b,Invulnerable:1,Invisible:1,Tags:["cDisplay2"]}
+execute if entity @e[name=w,type=armor_stand,tag=grandprix] run summon armor_stand 1577 93 363 {CustomName:"{\"text\":\"Cancel Grand Prix\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"true\"}",CustomNameVisible:false,Marker:1b,Invulnerable:1,Invisible:1,Tags:["cDisplay2"]}

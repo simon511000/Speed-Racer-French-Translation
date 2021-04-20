@@ -1,0 +1,8 @@
+clear @s stone_button
+
+replaceitem entity @s[tag=!kart_model] armor.head minecraft:stone_button{CustomModelData:1116111,display:{Name:"{\"text\":\"Magic Head Button\",\"color\":\"gray\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1,Enchantments:[{id:"minecraft:respiration",lvl:3},{id:"minecraft:depth_strider",lvl:3},{id:"minecraft:binding_curse",lvl:1},{id:"minecraft:vanishing_curse",lvl:1}]} 1
+replaceitem entity @s[tag=kart_model,scores={kart_model=1}] armor.head minecraft:stone_button{CustomModelData:1117111,display:{Name:"{\"text\":\"Red Kart\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1} 1
+replaceitem entity @s[tag=kart_model,scores={kart_model=2}] armor.head minecraft:stone_button{CustomModelData:1117113,display:{Name:"{\"text\":\"Yellow Kart\",\"color\":\"yellow\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1} 1
+replaceitem entity @s[tag=kart_model,scores={kart_model=3}] armor.head minecraft:stone_button{CustomModelData:1117112,display:{Name:"{\"text\":\"Blue Kart\",\"color\":\"aqua\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1} 1
+replaceitem entity @s[tag=kart_model,scores={kart_model=4}] armor.head minecraft:stone_button{CustomModelData:1117114,display:{Name:"{\"text\":\"Green Kart\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1} 1
+replaceitem entity @s[tag=kart_model,scores={kart_model=5}] armor.head minecraft:stone_button{CustomModelData:1117115,display:{Name:"{\"text\":\"Purple Kart\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1} 1

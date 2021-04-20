@@ -1,0 +1,1 @@
+replaceitem entity @a[scores={hp=1..},tag=playing,gamemode=!creative,tag=!hasMap3] hotbar.5 filled_map{Tags:["map_random3","itemhastitle"],map:9998,display:{Name:"{\"text\":\"Random track & gamemode\",\"color\":\"white\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

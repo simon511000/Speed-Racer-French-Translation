@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Track sequence has been cleared.","color":"red"}]

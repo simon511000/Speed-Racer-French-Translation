@@ -1,0 +1,1 @@
+bossbar set minecraft:control_sneakheal name ["",{"text":"Hold ","color":"white"},{"keybind":"key.sneak","color":"light_purple","bold":"true"},{"text":" to heal!","color":"white"}]

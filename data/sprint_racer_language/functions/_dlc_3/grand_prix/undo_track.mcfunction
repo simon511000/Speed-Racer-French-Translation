@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Previous track has been removed from the sequence.","bold":"false","color":"red"}]

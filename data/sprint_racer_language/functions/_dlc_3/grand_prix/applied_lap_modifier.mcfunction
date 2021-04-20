@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Grand Prix] The lap count for this track has been set to ","bold":"false","color":"aqua"},{"score":{"name":"@e[name=w,limit=1,type=armor_stand]","objective":"lap"},"color":"aqua"},{"text":".","bold":"false","color":"aqua"}]

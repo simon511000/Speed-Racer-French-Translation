@@ -1,0 +1,1 @@
+title @s actionbar ["",{"text":"Utilise ","color":"white"},{"keybind":"key.use","color":"yellow","bold":"false"},{"text":" pour autoriser ce circuit à apparaître aléatoirement.","color":"white"}]

@@ -1,0 +1,3 @@
+execute unless score global loadAttempts matches 4.. run title @a actionbar ["",{"text":"Loading...","color":"green","bold":"true"}]
+execute if score global loadAttempts matches 4..11 run title @a actionbar ["",{"text":"Waiting for chunks...","color":"yellow","bold":"true"}]
+execute if score global loadAttempts matches 12.. run title @a actionbar ["",{"text":"Can't find an activator node!","color":"red","bold":"true"}]

@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.0 lectern{Tags:["gpSettings"],display:{Name:"{\"text\":\"Track settings\",\"color\":\"yellow\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

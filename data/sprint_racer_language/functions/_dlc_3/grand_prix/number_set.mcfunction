@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Track will be played in round #"},{"score":{"name":"@e[name=w,limit=1,type=armor_stand]","objective":"gpNumber"}}]

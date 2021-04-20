@@ -1,0 +1,1 @@
+summon armor_stand 1631 90.5 415 {Tags:["lobbyprop"],Invulnerable:1b,NoBasePlate:1b,NoGravity:1b,Invisible:1,Marker:1b,CustomName:"{\"text\":\"View Full Credits\",\"bold\":\"true\"}",CustomNameVisible:1b,DisabledSlots:2039583}

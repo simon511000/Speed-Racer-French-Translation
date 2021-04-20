@@ -1,0 +1,2 @@
+tellraw @a[tag=!minChat] ["",{"text":"[ ! ] ","bold":"true","color":"yellow"},{"text":"Reminder: During gameplay, you can use the chain command block in your inventory to return to the lobby.","bold":"false","color":"aqua"}]
+tag @e[name=w,type=armor_stand,tag=remind2vote] remove remind2vote

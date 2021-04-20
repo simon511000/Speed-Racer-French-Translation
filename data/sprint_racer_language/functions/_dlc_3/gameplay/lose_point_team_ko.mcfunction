@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"You were ","color":"white"},{"text":"deducted 1 KO","color":"red"},{"text":" for harming your teammate!","color":"white"}]

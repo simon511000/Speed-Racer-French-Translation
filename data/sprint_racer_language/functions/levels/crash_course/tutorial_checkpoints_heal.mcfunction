@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIEL] ","color":"aqua","bold":"true"},{"text":"Sais-tu que les checkpoint restaurent ","color":"white","bold":"false"},{"text":"4 PV","color":"light_purple"},{"text":"?","color":"white","bold":"false"}]
+scoreboard players set @s tutorProgress 11

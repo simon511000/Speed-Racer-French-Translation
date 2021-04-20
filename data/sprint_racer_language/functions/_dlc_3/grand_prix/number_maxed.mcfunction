@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[ ! ] You can't have more rounds! 50 is the maximum.","color":"red","bold":"true"}]

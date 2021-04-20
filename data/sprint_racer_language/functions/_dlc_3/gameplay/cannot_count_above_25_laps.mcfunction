@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Sorry, I can't count higher than 25!","color":"yellow","italic":"true"}]

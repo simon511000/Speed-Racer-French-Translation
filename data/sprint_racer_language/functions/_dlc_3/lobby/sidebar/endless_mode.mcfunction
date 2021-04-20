@@ -1,0 +1,1 @@
+scoreboard objectives modify lobbyDisplay displayname ["",{"text":"Endless Mode","color":"white","bold":"true"}]

@@ -1,0 +1,4 @@
+#reset music
+setblock 1568 90 362 minecraft:birch_sign[rotation=0]
+execute if entity @e[name=w,type=armor_stand,tag=noMusicReset] run data merge block 1568 90 362 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/reset_music\"}}",Text2:"{\"text\":\"RESET MUSIC\",\"bold\":true,\"color\":\"black\"}",Text3:"{\"text\":\"ON DEATH?\",\"bold\":true,\"color\":\"black\"}",Text4:"{\"text\":\"[NO]\",\"color\":\"dark_blue\"}"}
+execute unless entity @e[name=w,type=armor_stand,tag=noMusicReset] run data merge block 1568 90 362 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/reset_music\"}}",Text2:"{\"text\":\"RESET MUSIC\",\"bold\":true,\"color\":\"black\"}",Text3:"{\"text\":\"ON DEATH?\",\"bold\":true,\"color\":\"black\"}",Text4:"{\"text\":\"[YES]\",\"color\":\"dark_blue\"}"}

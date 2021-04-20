@@ -1,0 +1,2 @@
+execute unless score global loadAttempts matches 4.. run title @a actionbar ["",{"text":"Loading...","color":"green","bold":"true"}]
+execute if score global loadAttempts matches 4.. run title @a actionbar ["",{"text":"Having trouble loading!","color":"yellow","bold":"true"}]

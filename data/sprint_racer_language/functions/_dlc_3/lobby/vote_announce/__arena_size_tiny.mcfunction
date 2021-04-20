@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Size: ","color":"white","bold":"true"},{"text":"Tiny","color":"white","bold":"true"}]

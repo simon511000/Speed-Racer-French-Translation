@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"==\\/== Random Race ==\\/==","bold":"true","color":"aqua"}]
